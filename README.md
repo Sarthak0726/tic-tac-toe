@@ -1,2 +1,2 @@
-# tic-tac-toe
+# tic-tac-toe Game
 # Using C Language
